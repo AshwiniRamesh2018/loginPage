@@ -1,1 +1,1 @@
-# loginPageAndRegistor
+# loginAndRegistorPage
